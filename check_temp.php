@@ -10,7 +10,7 @@
         
 		$_SESSION['temperature'] = $_POST['temp'];
 		
-		echo "<script> location.href='record.php'; </script>";
+		echo "<script> location.href='check_student.php'; </script>";
 	 };
 ?>
 

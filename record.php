@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html lang = "eng">
@@ -8,11 +7,13 @@
 	</head>
 	<body>
 		<?php include 'nav_bar.php' ?>
-		<div class = "container-fluid admin" >			
-			<div class = "alert alert-primary"><center>Check Details</center></div>			
-			<h5><?php include 'check_details.php' ?></h5>
-		</div>
 		
+		<div class = "container-fluid admin2" >			
+			<h2><div class = "alert alert-primary"><center>Salinungan Stand Alone Highschool</center></div></h2>
+            <br>			
+			<h5><?php include 'record_attendance.php' ?></h5>
+			
+		</div>
 	</body>
 	
 	
