@@ -73,7 +73,7 @@ $temp_rec = $_SESSION['temperature'];
 										  <?php  $_SESSION['cp'] = $orow['parent_no']; ?>
 										  
 										  <?php $_SESSION['par'] = $orow['parent']; ?>
-										  <
+									
 										 <!--For txt Message -->
 
 										

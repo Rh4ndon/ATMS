@@ -3,13 +3,13 @@
 $conn = "";
   
 try {
-    $servername = "localhost:3306";
-    $dbname = "atms";
-    $username = "root";
-    $password = "";
+    $servername = "localhost";
+    $dbname = "u187430566_atms";
+    $username = "u187430566_rhand0n";
+    $password = "Rhandon_0312";
   
     $conn = new PDO(
-        "mysql:host=$servername; dbname=atms",
+        "mysql:host=$servername; dbname=u187430566_atms",
         $username, $password
     );
      

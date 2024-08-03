@@ -4,8 +4,16 @@
 					<p class = "navbar-text pull-right">Attendance Management System</p>
 					<img src="admin/img/logo.png" height="50" width="50">
 				</div>
-				<div class = "nav navbar-nav navbar-right">
-					<a href="admin/index.php" class="text-light">ADMIN   <i class="fa fa-power-off"></i></a>
+				
+				<div class="dropdown">
+				  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				    ADMIN   <i class="fa fa-power-off"></i>
+				  </button>
+				  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+				    <a class="dropdown-item" href="admin/index.php">Admin</a>
+					<a class="dropdown-item" href="../../projects.html">Rhandon.tech</a>
+				  </div>
+			
 				</div>
 			</div>
 		</nav>

@@ -16,7 +16,7 @@
 									
 											<div class="control-group">
                                           <div class="controls">
-												<button name="save" class="btn btn-primary"><i class="icon-plus-sign icon-large"></i></button>
+												<button name="save" class="btn btn-primary" disabled><i class="icon-plus-sign icon-large"></i></button>
 
                                           </div>
                                         </div>

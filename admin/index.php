@@ -24,6 +24,8 @@
   <input type="text" name="username" placeholder="Username" required>
   <input type="password" name="password" placeholder="Password">
   <input class="button" type="submit" name="login" value="Sign In" required>
+  <button class="button"  type="button" onclick="location.href='../index.php'" value="Sign In" required>Go Back</button>
+  <button class="button"  type="button" onclick="location.href='../../../projects.html'" value="Sign In" required>Rhandon.tech</button>
 </form>
 
 

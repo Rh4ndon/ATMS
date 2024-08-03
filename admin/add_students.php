@@ -70,7 +70,7 @@
 																		
 											<div class="control-group">
                                           <div class="controls">
-												<button name="save" type="submit" class="btn btn-info"><i class="icon-plus-sign icon-large"></i></button>
+												<button name="save" type="submit" class="btn btn-info" disabled><i class="icon-plus-sign icon-large"></i></button>
 
                                           </div>
                                         </div>

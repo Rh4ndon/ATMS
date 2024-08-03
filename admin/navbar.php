@@ -18,7 +18,11 @@
                                     </li>
                                     <li class="divider"></li>
                                     <li>
-                                        <a tabindex="-1" href="index.php"><i class="icon-signout"></i>&nbsp;Logout</a>
+                                        <a tabindex="-1" href="../../../projects.html">Rhandon.tech</a>
+                                    </li>
+                                    <li class="divider"></li>
+                                    <li>
+                                        <a tabindex="-1" href="../index.php"><i class="icon-signout"></i>&nbsp;Logout</a>
                                     </li>
                                 </ul>
                             </li>

@@ -32,7 +32,7 @@
 											if (isset($_POST['submit'])){
 												include('dbcon.php');
 												$from=date('m-d-y',strtotime($_POST['from']));
-                        $section=($_POST['section']);                         
+                        						$section=($_POST['section']);                         
 										?>                         
                   <caption><div class="pull-left"><?php echo $section?></div><div class="pull-right"><?php echo $from?></div></caption>        
 						        <?php

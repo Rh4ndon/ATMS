@@ -45,7 +45,7 @@
 					</div>
 					<div class="modal-footer">
 					<button class="btn" data-dismiss="modal" aria-hidden="true"><i class="icon-remove icon-large"></i> Close</button>
-					<button name="delete_class" class="btn btn-danger"><i class="icon-check icon-large"></i> Yes</button>
+					<button name="delete_class" class="btn btn-danger" disabled><i class="icon-check icon-large"></i> Yes</button>
 					</div>
 					</div>
 					
@@ -62,7 +62,7 @@
 					</div>
 					<div class="modal-footer">
 					<button class="btn" data-dismiss="modal" aria-hidden="true"><i class="icon-remove icon-large"></i> Close</button>
-					<button name="delete_student" class="btn btn-danger"><i class="icon-check icon-large"></i> Yes</button>
+					<button name="delete_student" class="btn btn-danger" disabled><i class="icon-check icon-large"></i> Yes</button>
 					</div>
 					</div>
 					
